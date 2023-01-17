@@ -1,0 +1,7 @@
+tkinter
+matplotlib
+numpy
+pandas
+seaborn
+configparser
+math
